@@ -1,0 +1,9 @@
+# user-config.jam file
+# Defines which standalone toolchains to use for building.
+
+
+# Uncomment to build using preferred toolchain.
+
+# ARM, ARMV7-A, ARM64
+ 
+using gcc : arm : D:/dev/androidsdk/ndk/arm64/bin/aarch64-linux-android-g++ : <archiver>D:/dev/androidsdk/ndk/arm64/bin/aarch64-linux-android-ar <ranlib>D:/dev/androidsdk/ndk/arm64/bin/aarch64-linux-android-ranlib ;
