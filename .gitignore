@@ -1,0 +1,5 @@
+# Compiled Object files
+*
+!.gitignore
+!make.sh
+!testbuildarm&arm64.sh

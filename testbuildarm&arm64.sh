@@ -1,0 +1,1 @@
+sh make.sh --ndkdir=E:/dev/androidsdk/ndk-bundle --boostdir=F:/git/laboratory/boost_1_65_1 --arm --arm64
